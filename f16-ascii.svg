@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-label="Animated F-16 ASCII art">
+<style>
+  .a{fill:#57606a;font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}
+  .hud{fill:#57606a;font:13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1px}
+  @media(prefers-color-scheme:dark){.a,.hud{fill:#c9d1d9}}
+</style>
+<defs>
+  <clipPath id="reveal"><rect x="0" y="0" width="0" height="500"><animate attributeName="width" from="0" to="900" dur="4s" fill="freeze"/></rect></clipPath>
+</defs>
+<g clip-path="url(#reveal)">
+<text class="hud" x="40" y="38">CYC-WHLD // F-16C FIGHTING FALCON // SYSTEM ONLINE</text>
+<text class="a" x="40" y="85" xml:space="preserve">                                      .</text>
+<text class="a" x="40" y="101" xml:space="preserve">                                      |\</text>
+<text class="a" x="40" y="117" xml:space="preserve">                                      | \</text>
+<text class="a" x="40" y="133" xml:space="preserve">                         _____________|  \_____________</text>
+<text class="a" x="40" y="149" xml:space="preserve">                    ____/                                \____</text>
+<text class="a" x="40" y="165" xml:space="preserve">              _____/                 __                     \_____</text>
+<text class="a" x="40" y="181" xml:space="preserve">        ______/_____________________/  \__________________________\______</text>
+<text class="a" x="40" y="197" xml:space="preserve"> ______/              ____          / /\ \          ____                 \______</text>
+<text class="a" x="40" y="213" xml:space="preserve">&lt;___________________/    \________/ /  \ \________/    \_____________________&gt;</text>
+<text class="a" x="40" y="229" xml:space="preserve">                 \             ___/ /____\ \___             /</text>
+<text class="a" x="40" y="245" xml:space="preserve">                  \___________/      ____      \___________/</text>
+<text class="a" x="40" y="261" xml:space="preserve">                         \          / __ \          /</text>
+<text class="a" x="40" y="277" xml:space="preserve">                          \________/ /  \ \________/</text>
+<text class="a" x="40" y="293" xml:space="preserve">                             /_____/      \_____\</text>
+<text class="a" x="40" y="309" xml:space="preserve">                                 \        /</text>
+<text class="a" x="40" y="325" xml:space="preserve">                                  \______/</text>
+<text class="a" x="40" y="341" xml:space="preserve">                                     \/</text>
+<text class="hud" x="40" y="392">AIRCRAFT  F-16C  |  CALLSIGN  CYC-WHLD  |  STATUS  READY</text>
+<text class="hud" x="40" y="418">ALT 25000 FT     |  MACH 1.20          |  HEADING 090</text>
+</g>
+<rect x="0" y="458" width="0" height="2" class="hud"><animate attributeName="width" from="0" to="900" begin="4s" dur="1s" fill="freeze"/></rect>
+</svg>
